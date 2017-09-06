@@ -1,1 +1,2 @@
 Z:\Users\dcooper1\CrudPrototype\CrudPrototype\CrudPrototype\bin\Debug\CrudPrototype.exe.config
+C:\Users\smhru\411-Prototype\CrudPrototype\CrudPrototype\bin\Debug\CrudPrototype.exe.config
