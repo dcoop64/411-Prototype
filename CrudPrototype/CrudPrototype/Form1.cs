@@ -16,5 +16,10 @@ namespace CrudPrototype
         {
             InitializeComponent();
         }
+
+        private void btnBreanna_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hi");
+        }
     }
 }
